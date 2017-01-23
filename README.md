@@ -1,6 +1,6 @@
 # DevcampViewTool
 
- >Various view specific methods for applications I use. 
+ >Various view specific methods for applications I use.
 
 ## Installation
 
@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DevcampViewTool::Renderer.copyright 'Taylor High', 'All Rights Reserved'
+```
 
 ## Development
 
